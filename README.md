@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Dự Án
-### [Tên Dự Án 1](https://github.com/username/project1)
+### [LogiForce1]()
 **Mô tả:**  
 Dự án quản lý mua bán và vận chuyển ngô bằng mã QR.
 
@@ -43,7 +43,7 @@ Dự án quản lý mua bán và vận chuyển ngô bằng mã QR.
 
 ---
 
-### [Tên Dự Án 2](https://github.com/username/project2)
+### [LogiForce2]()
 **Mô tả:**  
 Xây dựng chatbot hỗ trợ khách hàng chọn size quần áo.
 

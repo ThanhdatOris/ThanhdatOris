@@ -1,11 +1,3 @@
-# 💼 Thông Tin Cá Nhân
-
-- **Họ tên:** Nguyễn Thành Đạt
-- **Trường học:** Can Tho University of Technology (CTUT)
-- **Chuyên ngành:** Hệ thống Thông tin
-
----
-
 ## 🌐 Liên Hệ
 - **Facebook:** [Nguyễn Thành Đạt](https://www.facebook.com/dat.n.st.2004)
 - **Email:** [Nguyễn Thành Đạt](ntdathttt2211003@student.ctuet.edu.vn)

@@ -54,4 +54,4 @@ Xây dựng chatbot hỗ trợ khách hàng chọn size quần áo.
 
 *Cảm ơn đã ghé qua!* 😊
 
--Nội dung này do AI tạo, các dự án vẫn đnag trong quá trình phát triển-
+-Nội dung này do AI tạo, các dự án vẫn đang trong quá trình phát triển-

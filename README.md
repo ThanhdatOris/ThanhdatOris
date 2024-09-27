@@ -2,13 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanhdatOris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://avatarfiles.alphacoders.com/102/102500.jpg"  />
+<img align="right" style="border-radius: 15px;" height="160" src="https://4kwallpapers.com/images/walls/thumbs_3t/7871.jpg"  />
 
 ###
 
@@ -21,20 +15,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="50" alt="netlify logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="50" alt="notion logo"  />
+  <img width="12" /> 
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <br>
+  <br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
   <img width="12" />
@@ -47,34 +48,20 @@
 
 ###
 
-<div align="left">
-  <a href="youtube.com/@orion16" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="ntdathttt2211003@student.ctuet.edu.vn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="facebook.com/dat.n.st.2004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+<br clear="both">
+
+<img align="center" src="https://raw.githubusercontent.com/ThanhdatOris/ThanhdatOris/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanhdatOris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThanhdatOris/ThanhdatOris/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div style="border: 5px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1; padding: 20px; background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/15834.jpg); background-size: cover;">
 
   <!-- Nội dung của bạn -->
-  ## 🌐 Liên Hệ
-  - **📘 Facebook:** [Nguyễn Thành Đạt](https://www.facebook.com/dat.n.st.2004)
-  - **📧 Email:** [Nguyễn Thành Đạt](mailto:ntdathttt2211003@student.ctuet.edu.vn)
-
-
   ## 📚 Kinh Nghiệm Học Tập
   - **🏫 Trung học:** Trường THPT Hoàng Diệu Sóc Trăng, 2019 - 2022
     - Học lực: Loại Giỏi
@@ -93,22 +80,23 @@
 
 
   ## 🏆 Dự Án
-  ### [LogiForce1]()
+  ### [Web Giới thiệu]()
   **Mô tả:**
-  Dự án quản lý mua bán và vận chuyển ngô bằng mã QR.
+  Web giới thiệu bản thân
 
   **Công nghệ sử dụng:**
-  - Frontend: HTML, CSS, JavaScript
-  - Backend: MySQL, WordPress
-  - Khác: QR-ME
+  - Frontend: HTML, CSS, JavaScrip
+  - Backend: 
+  - Khác: Bootstrap
 
-  ### [LogiForce2]()
+  ### [LAB2211]()
   **Mô tả:**
-  Xây dựng chatbot hỗ trợ khách hàng chọn size quần áo.
+  Repo cho đồ án 1
 
   **Công nghệ sử dụng:**
-  - Chatbot: Python, AI
-  - Website: HTML, CSS, JavaScript
+  - Frontend: HTML, CSS, JavaScrip
+  - Backend: ASP Core MVC, SQL Server
+  - Khác: Bootstrap
 
 
   ## 🎯 Mục Tiêu

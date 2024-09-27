@@ -65,9 +65,6 @@
 
 <img src="https://raw.githubusercontent.com/ThanhdatOris/ThanhdatOris/output/snake.svg" alt="Snake animation" />
 
-![GitHub Snake Light](https://github.com/ThanhdatOris/ThanhdatOris/blob/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/ThanhdatOris/ThanhdatOris/blob/output/snake.svg#gh-dark-mode-only)
-
 ###
 
 <div style="border: 5px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1; padding: 20px; background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/15834.jpg); background-size: cover;">

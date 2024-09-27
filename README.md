@@ -61,6 +61,10 @@
 ###
 <div style="border: 5px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1; padding: 20px; background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/15834.jpg); background-size: cover;">
 
+<div align="center">
+  <img src="./assets/images/avatar.jpg" style="border-radius: 50%; width: 50%;" alt="Avatar" />
+</div>
+
   <!-- Nội dung của bạn -->
   ## 📚 Kinh Nghiệm Học Tập
   - **🏫 Trung học:** Trường THPT Hoàng Diệu Sóc Trăng, 2019 - 2022
@@ -106,4 +110,8 @@
 
   ## 🌈 Cảm ơn đã ghé qua!😊
   Nội dung này do AI tạo, các dự án vẫn đang trong quá trình phát triển
+    <div align="center">
+      <img src="./assets/images/bg-car.jpg" style="width: 100%;" alt="Cover" />
+    </div>
 </div>
+

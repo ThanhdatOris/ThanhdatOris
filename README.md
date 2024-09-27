@@ -1,4 +1,4 @@
-<h1 align="center">🌻Oris Xin chào🌻</h1>
+<h1 align="center" style="color: #4CAF50; font-family: 'Montserrat Black', sans-serif; font-size: 3em; font-weight: bold; text-shadow: 2px 2px #FF0000;">🌻Oris Xin chào🌻</h1>
    <div align="center">
       <img src="./assets/images/cover2.jpg" style="width: 100%;" alt="Cover" />
     </div>

@@ -81,9 +81,10 @@
 
   ## ⚙️ Kỹ Năng
   - **💻 Ngôn ngữ lập trình:** C#, Java, Python, HTML/CSS, JavaScript
-  - **🛠️ Công cụ phát triển:** VS Code, Visual Studio, SQL Server, Git, MySQL, NetBeans, xampp, laragon
-  - **🌐 Hệ thống quản lý nội dung:** WordPress
-  - **🔧 Công nghệ khác:** QR Code Management, Web Development, MySQL, Maven
+  - **🛠️ Công cụ phát triển:** VS Code, Visual Studio, SQL Server, Git, MySQL, NetBeans, XAMPP, Laragon
+  - **🌐 Hệ thống quản lý nội dung:** Github, OneDrive, Google Drive
+  - **🔧 Công nghệ khác:** QR Code, Netlify, DialogFlow
+  - **🪐 Các kỹ năng khác:** Word, PowerPoint, Canva, Capcut, chơi rubik...
 
 
   ## 🏆 Dự Án
@@ -108,7 +109,8 @@
 
   ## 🎯 Mục Tiêu
   - Trở thành phiên bản tốt hơn của chính mình.
-  - Đạt được nhiều thành tựu hơn trước khi ra trường
+  - Đạt được nhiều thành tựu hơn trước khi ra trường.
+  - Học các framework: Bootstrap, SemanticUI, Lavarel, Symphony, ASP Core.
   - Học thêm các công nghệ mới như AI, Machine Learning, và Blockchain.
 
   ## 🌈 Cảm ơn đã ghé qua!😊

@@ -72,7 +72,7 @@
   ## 📚 Kinh Nghiệm Học Tập
   - **🏫 Trung học:** Trường THPT Hoàng Diệu Sóc Trăng, 2019 - 2022
 
-  - **🎓 Đại học:** Can Tho University of Technology, 2022 - 2027 ⭐
+  - **🎓 Đại học:** Can Tho University of Technology, 2022 - 2026 ⭐
     - Chuyên ngành: Hệ thống Thông tin
     - GPA hiện tại: 8.5/10
 

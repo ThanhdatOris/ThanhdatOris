@@ -79,9 +79,9 @@
 
 
   ## ⚙️ Kỹ Năng
-  - **💻 Ngôn ngữ lập trình:** C#, Java, Python, HTML/CSS, JavaScript
+  - **💻 Ngôn ngữ lập trình đang theo học:** C#, Java, Python, HTML/CSS, JavaScript
   - **🛠️ Công cụ phát triển:** VS Code, Visual Studio, SQL Server, Git, MySQL, NetBeans, XAMPP, Laragon
-  - **🌐 Hệ thống quản lý nội dung:** Github, OneDrive, Google Drive
+  - **🌐 Hệ thống quản lý nội dung:** Github, OneDrive, Google Drive, Discord
   - **🔧 Công nghệ khác:** QR Code, Netlify, DialogFlow, Plantuml
   - **🪐 Các kỹ năng khác:** Word, PowerPoint, Canva, Capcut, chơi rubik...
 

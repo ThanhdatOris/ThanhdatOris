@@ -87,7 +87,7 @@
 
 
   ## 🏆 Dự Án
-  ### [Web Giới thiệu](url(nguyenthanhdat.id.vn))
+  ### [Web Giới thiệu](https://nguyenthanhdat.id.vn)
   **Mô tả:**
   Web giới thiệu bản thân
 

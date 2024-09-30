@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #4CAF50; font-family: 'Montserrat Black', sans-serif; font-size: 3em; font-weight: bold; text-shadow: 2px 2px #FF0000;">🌻Oris Xin chào🌻</h1>
    <div align="center">
-      <img src="./assets/images/cover2.jpg" style="width: 100%;" alt="Cover" />
+      <img src="./assets/images/cover2.jpg" style="width: 5050%;" alt="Cover" />
     </div>
 
 ###
@@ -81,7 +81,7 @@
   - **💻 Ngôn ngữ lập trình:** C#, Java, Python, HTML/CSS, JavaScript
   - **🛠️ Công cụ phát triển:** VS Code, Visual Studio, SQL Server, Git, MySQL, NetBeans, XAMPP, Laragon
   - **🌐 Hệ thống quản lý nội dung:** Github, OneDrive, Google Drive
-  - **🔧 Công nghệ khác:** QR Code, Netlify, DialogFlow
+  - **🔧 Công nghệ khác:** QR Code, Netlify, DialogFlow, Plantuml
   - **🪐 Các kỹ năng khác:** Word, PowerPoint, Canva, Capcut, chơi rubik...
 
 

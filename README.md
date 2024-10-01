@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" style="border-radius: 15px; width:30%;" src="./assets/images/avatar.jpg"  />
+<img align="left" style="border-radius: 15px; width:30%;" src="./assets/images/avatar.jpg"  />
 
 ###
 
-<div align="left" style="border-radius: 15px; width:70%; display: flex; justify-content: space-around;" >
+<div align="right" style="border-radius: 15px; width:70%; display: flex; justify-content: space-around;" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60px" alt="css3 logo"  />

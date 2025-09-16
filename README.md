@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #4CAF50; font-family: 'Montserrat Black', sans-serif; font-size: 3em; font-weight: bold; text-shadow: 2px 2px #FF0000;">🌻Oris Xin chào🌻</h1>
       
-   <div align="center" style="width: 100%; height: 300px; overflow: hidden;">
-       <img src="./assets/images/cover2.jpg" alt="Cover" style="width: 100%; height: auto; min-height: 100%; object-fit: cover; object-position: center 20%;" />
+   <div align="center">
+       <img src="./assets/images/cover2.jpg" alt="Cover" style="width: 100%;" />
    </div>
 
 ###
@@ -80,8 +80,8 @@
 ###
 <div style="border: 5px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1; padding: 20px; background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/15834.jpg); background-size: cover;">
 
-<div align="center" style="width: 100%; height: 200px; overflow: hidden;">
-  <img src="./assets/images/cover1.jpg" style="width: 100%; height: auto; min-height: 100%; object-fit: cover; object-position: center 75%;" alt="Cover" />
+<div align="center">
+  <img src="./assets/images/cover1.jpg" style="width: 100%;" alt="Cover" />
 </div>
 
   <!-- Nội dung của bạn -->
@@ -111,8 +111,8 @@
 
   ## 🌈 Cảm ơn đã ghé qua!😊
   Nội dung vẫn đang được phát triển
-    <div align="center" style="width: 100%; height: 150px; overflow: hidden;">
-      <img src="./assets/images/bg-car.jpg" style="width: 100%; height: auto; min-height: 100%; object-fit: cover;" alt="Cover" />
+    <div align="center">
+      <img src="./assets/images/bg-car.jpg" style="width: 100%;" alt="Cover" />
     </div>
 </div>
 

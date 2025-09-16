@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #4CAF50; font-family: 'Montserrat Black', sans-serif; font-size: 3em; font-weight: bold; text-shadow: 2px 2px #FF0000;">🌻Oris Xin chào🌻</h1>
       
-   <div align="center">
-       <img src="./assets/images/cover2.jpg" alt="Cover" style="width: 100%;" />
+   <div align="center" style="width: 100%; height: 300px; overflow: hidden;">
+       <img src="./assets/images/cover2.jpg" alt="Cover" style="width: 100%; height: auto; min-height: 100%; object-fit: cover; object-position: center 20%;" />
    </div>
 
 ###
@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="60px" alt="netlify logo"/>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="60px" alt="vercel logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="60px" alt="notion logo"  />
   <img width="12" /> 
   
@@ -37,6 +39,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60px" alt="git logo"  />
   <img width="12" />
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60px" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60px" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60px" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60px" alt="nextjs logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60px" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60px" alt="mysql logo"  />
@@ -47,6 +58,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60px" alt="canva logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60px" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60px" alt="illustrator logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60px" alt="google logo"  />
 </div>
 
@@ -56,17 +71,17 @@
 
 <img align="center" src="https://raw.githubusercontent.com/ThanhdatOris/ThanhdatOris/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThanhdatOris&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+</div> -->
 
 ###
 <div style="border: 5px solid; border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1; padding: 20px; background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/15834.jpg); background-size: cover;">
 
-<div align="center">
-  <img src="./assets/images/cover1.jpg" style="width: 100%;" alt="Cover" />
+<div align="center" style="width: 100%; height: 200px; overflow: hidden;">
+  <img src="./assets/images/cover1.jpg" style="width: 100%; height: auto; min-height: 100%; object-fit: cover; object-position: center 75%;" alt="Cover" />
 </div>
 
   <!-- Nội dung của bạn -->
@@ -79,32 +94,14 @@
 
 
   ## ⚙️ Kỹ Năng
-  - **💻 Ngôn ngữ lập trình đang theo học:** C#, Java, Python, HTML/CSS, JavaScript
+  - **💻 Ngôn ngữ lập trình đang theo học:** C#, Java, Python, HTML/CSS, JavaScript, PHP, Dart
+  - **🚀 Framework/Library:** Bootstrap, TailwindCSS, Symfony, Next.js, ASP.NET Core, Flutter
   - **🛠️ Công cụ phát triển:** VS Code, Visual Studio, SQL Server, Git, MySQL, NetBeans, XAMPP, Laragon
   - **🌐 Hệ thống quản lý nội dung:** Github, OneDrive, Google Drive, Discord
-  - **🔧 Công nghệ khác:** QR Code, Netlify, DialogFlow, Plantuml
-  - **🪐 Các kỹ năng khác:** Word, PowerPoint, Canva, Capcut, chơi rubik...
-
-
-  ## 🏆 Dự Án
-  ### [Web Giới thiệu](https://nguyenthanhdat.id.vn)
-  **Mô tả:**
-  Web giới thiệu bản thân
-
-  **Công nghệ sử dụng:**
-  - Frontend: HTML, CSS, JavaScrip
-  - Backend: 
-  - Khác: Bootstrap
-
-  ### [LAB2211]()
-  **Mô tả:**
-  Repo cho đồ án 1
-
-  **Công nghệ sử dụng:**
-  - Frontend: HTML, CSS, JavaScrip
-  - Backend: ASP Core MVC, SQL Server
-  - Khác: Bootstrap
-
+  - **☁️ Hosting & VPS:** Netlify, Vercel, Hypercore, 123HOST, cPanel
+  - **🎨 Thiết kế đồ họa:** Photoshop, Lightroom, Illustrator, Canva
+  - **🔧 Công nghệ khác:** QR Code, DialogFlow, Plantuml, Docker
+  - **🪐 Các kỹ năng khác:** Word, PowerPoint, Capcut, Photoshop, Lightroom, Illustrator, chơi rubik...
 
   ## 🎯 Mục Tiêu
   - Trở thành phiên bản tốt hơn của chính mình.
@@ -114,8 +111,8 @@
 
   ## 🌈 Cảm ơn đã ghé qua!😊
   Nội dung vẫn đang được phát triển
-    <div align="center">
-      <img src="./assets/images/bg-car.jpg" style="width: 100%;" alt="Cover" />
+    <div align="center" style="width: 100%; height: 150px; overflow: hidden;">
+      <img src="./assets/images/bg-car.jpg" style="width: 100%; height: auto; min-height: 100%; object-fit: cover;" alt="Cover" />
     </div>
 </div>
 

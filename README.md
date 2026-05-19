@@ -22,12 +22,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dat.n.st.2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngthdat.ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanhdatoris) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@thanhdatoris) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngthdat.dev@gmail.com) 
 
-# <h1 align="center">📊 GitHub Stats 📊</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=thanhdatoris&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thanhdatoris&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdatoris&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhdatoris&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 

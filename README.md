@@ -22,12 +22,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dat.n.st.2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngthdat.ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanhdatoris) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thanhdatoris) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngthdat.dev@gmail.com) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thanhdatoris&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=thanhdatoris&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # <p align="center">🌈 Thanks for visiting!😊 </p>
 
 <div align="center">

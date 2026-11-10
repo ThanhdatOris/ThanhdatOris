@@ -7,7 +7,7 @@
 # <h1 align="center">💫 About Me 💫</h1>
 <h5 align="center">Student at Can Tho University of Technology<br>Passionate about Frontend Development & UX/UI Design</h5>
 
-<img align="center" src="https://raw.githubusercontent.com/ThanhdatOris/ThanhdatOris/output/snake.svg" alt="Snake animation" />
+<!-- <img align="center" src="https://raw.githubusercontent.com/ThanhdatOris/ThanhdatOris/output/snake.svg" alt="Snake animation" /> -->
 
 ## 📚 Education
   - **🏫 High School:** Hoang Dieu High School, Soc Trang, 2019 - 2022
